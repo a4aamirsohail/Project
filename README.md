@@ -26,7 +26,7 @@ Excel for basic cleaning and prep
 As someone transitioning into data analytics, I wanted to apply what I’ve been learning to a relatable topic. The insurance domain felt like a perfect fit, especially with my background in claim settlement. This dashboard helped me connect data with decision-making in a meaningful way.
 
 Final-![Screenshot 2025-04-13 134152](https://github.com/user-attachments/assets/16fe6ce8-9cfa-43bd-ad16-beafc2fea31f)
-Breakdown-
+
 
 
 
