@@ -7,7 +7,7 @@ A clean, interactive dashboard
 Insights on how different factors affect insurance costs
 Visual breakdowns for quick understanding
 
-A separate “Key Takeaways” image that sums it all up at a glance-![KT](https://github.com/user-attachments/assets/a2368570-8058-4203-aceb-1e96c3e8f5da)
+A separate “Key Takeaways” image that sums it all up at a glance
 
 
 💡 Key Insights:
